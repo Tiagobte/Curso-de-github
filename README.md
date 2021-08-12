@@ -1,5 +1,6 @@
 # Curso de github dia 12/08/2021
  Curso em video 
 
+Teste de commit com git hub, push e pull
 
-Teste de commit com git hub
+Testando código direto no site do git hub
